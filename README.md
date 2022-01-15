@@ -1,4 +1,10 @@
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hi 👋, I'm Harshwardhan Atkare
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hi 👋, I'm Harshwardhan Atkare
+
+
+#### ---------------------------------------------------------------------
+
+## I'm a second year CSE Engineering student.App Development is my intreset
+
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning Java and DSA
