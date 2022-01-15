@@ -5,9 +5,6 @@
 ## &nbsp; &nbsp; &nbsp; &nbsp;  I'm a second year CSE Engineering student. Android Development is my intreset
 
 
-### Connect with me :
-
-:linkedIn:
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning Java and DSA
