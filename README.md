@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Harshwardhan431/Harshwardhan431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hi 👋, I'm Harshwardhan Atkare
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning Java and DSA
