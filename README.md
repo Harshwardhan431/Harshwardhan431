@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Flutter Projects **
+- 🔭 I’m currently working on Flutter Projects 
 
 - 🌱 I’m currently learning **DSA and Java**
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/Harshwardhan431)**
 
-- ⚡ Fun fact **I like to play BasketBall and various other outdoor sports**
+- ⚡ **I like to play BasketBall and various other outdoor sports**
 <hr>
 
 ## 🚀 Languages and Tools:
