@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/Harshwardhan431)**
 
-- ⚡ I like to play BasketBall and various other outdoor sports
+- ⚡ Fun Fact : I like to play BasketBall and various other outdoor sports
 <hr>
 
 ## 🚀 Languages and Tools:
