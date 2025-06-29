@@ -19,18 +19,20 @@
 ## 🚀 Languages and Tools:
 <br>
 
-<p align="left"> 
-    
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="45" height="45"/> </a> 
-    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> </a>  
-    <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="45" height="45"/> </a> 
-    <a href="https://www.dartpad.dev/?null_safety=true" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png" width="45" height="45"/> </a>
 
+<p align="left">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40"/>
+    <img src="https://img.icons8.com/nolan/64/apache-kafka.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" width="40"/>
 </p>
+
 
 
 <br/>
