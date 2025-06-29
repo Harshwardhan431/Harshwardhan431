@@ -1,15 +1,15 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
 <h1 align="center">Hi, I'm Harshwardhan Atkare <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am an Android Developer</h3>
+<h3 align="center">I am an Software Developer</h3>
 
 <hr>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Flutter Projects 
+- 🔭 I’m currently working as a **Technology Consultant at Morgan Stanley (via Wissen Technology)**
 
-- 🌱 I’m currently learning **DSA and Java**
+- 🌱 Check my **[Portfolio](https://harshwardhanatkare.netlify.app/)** 
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/Harshwardhan431)**
 
